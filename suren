@@ -1,0 +1,70 @@
+week-1-ai-exploration-lab/
+│
+├── README.md
+├── prompts.md
+├── tool-comparison.md
+├── reflection.md
+│
+├── outputs/
+│   ├── text-tool-output.md
+│   ├── chatbot-output.md
+│   └── image-tool-output.md
+│
+└── screenshots/
+# Week 1 AI Exploration Lab
+
+## Lab Goal
+
+The goal of this lab is to build intuition by experimenting with Generative AI tools and comparing their outputs.
+
+## Tools Tested
+
+1. Text Generation Tool: ChatGPT
+2. Image Generation Tool: DALL·E
+3. Chatbot / Assistant Tool: Claude
+
+## Main Question
+
+What can Generative AI do well, and where does it still have limitations?
+
+#Create a Common Test Theme
+
+Choose one simple theme that you will use across all 3 tools.
+
+For example:
+
+Theme: Generative AI for small business productivity
+
+
+Other possible themes:
+AI for students
+AI for healthcare communication
+AI for marketing content
+AI for project management
+AI for cybersecurity awareness
+AI for personal productivity
+AI for education and training
+
+Using one theme makes it easier to compare outputs.
+
+
+Write Your Prompts
+Open your prompts.md file and add the prompts you will test.
+Use this structure:
+# Prompts Used
+## Theme
+Generative AI for small business productivity
+---
+## Prompt 1: Text Generation Prompt
+Write a beginner-friendly 300-word explanation of how Generative AI can help small business owners improve productivity. Use simple language and include 3 practical examples.
+---
+## Prompt 2: Image Generation Prompt
+Create a clean, modern image showing a small business owner using AI tools to manage emails, schedules, customer messages, and content creation. The image should feel professional, optimistic, and technology-focused. No text in the image.
+---
+## Prompt 3: Chatbot Prompt
+
+I am a small business owner who wants to use Generative AI but does not know where to start. Ask me 3 questions about my business, then recommend 3 simple AI use cases I can try this week.
+# Test the Text Generation Tool
+Use your text generation tool first.
+Copy and paste this prompt:
+Write a beginner-friendly 300-word explanation of how Generative AI can help small business owners improve productivity. Use simple language and include 3 practical examples.
